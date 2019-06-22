@@ -1,0 +1,72 @@
+/* CSS for image editor */
+
+.mycanvas {
+    background-color: #4A90E2;
+    
+}
+
+#preview {
+    width: 100%; 
+    box-shadow: rgba(0, 0, 0, 0.55) 0px 20px 68px 0px; 
+    border-radius: 0px 0px 8px 8px; 
+    margin-top: -5px;
+}
+
+.none-upload {
+    display: none;
+}
+
+.menu-title-2 {
+    color: #c5c5c5;
+    text-align: center;
+    font-size: 14px;
+}
+
+.custom-file {
+    width: 25%;
+}
+
+.custom-file-input input[type=file] {
+    background-color: #20344c;
+  }
+
+  .custom-file input[type=file] {
+    background-color: #20344c;
+  }
+
+  body  {
+      font-size: 14px;
+  }
+
+  .rounded-0 {
+      border-color: #20344c;
+      font-size: 14px;
+  }
+
+  .color-picker-1, .color-picker-div {
+      background-color: #20344c;
+      border-color: #20344c;
+  }
+
+
+  .main-panel, .container-fluid, .page-body-wrapper {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .custom-control-label {
+      color: #c5c5c5;
+  }
+
+  .designation {
+       color: #ffffff;
+       font-weight: 400;
+       padding-top: 5px;
+  }
+
+
+  input[type=text] {
+      font-size: 12px;
+      margin-right: 5px;
+      margin-left: 5px;
+  }
